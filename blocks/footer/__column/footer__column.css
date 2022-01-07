@@ -1,0 +1,8 @@
+.footer__column {
+  flex-basis: 711px;
+  display: flex;
+}
+
+.footer__column:first-child {
+  flex-direction: column;
+}
